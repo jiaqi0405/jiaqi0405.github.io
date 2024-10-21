@@ -1,0 +1,54 @@
+main:
+
+  - title: Research on image compression algorithms based on deep learning
+    authors: <strong>Ziyi Cheng</strong>
+    conference_short: Image Processing/ML
+    conference: Proposed an end-to-end image compression framework based on deep learning, which enhanced both efficiency and quility of image compression method.(Press PDF to know more)
+    pdf: ./assets/files/image_compression_overview.pdf
+    code: https://github.com/ziyicheng427/image_compression_qdram
+    bibtex: 
+    image: ./assets/img/image_compression.gif
+    notes: Outstanding Thesis(Score with 92 out of 100)
+
+  - title: A study on the application of single RpLidar in obstacle detection
+    authors: <strong>Ziyi Cheng</strong>, Michalis Iacovides, Alexander Morley, Geetik Mamillapalli
+    conference_short: Robotics/Sensors
+    conference: Analysed the limitations of a single 360-degree two-dimensional RpLidar for obstacle detection.(Press Code to know more)
+    pdf: 
+    code: https://www.dropbox.com/scl/fi/n86zl892yga99nbuhxpmg/EEEN62011_coursework2_11334829.mp4?rlkey=f65b6cs14vb2mzcuddpmfsf63&st=6fja7syu&dl=0
+    bibtex: 
+    image: ./assets/img/EEEN62011_coursework2_11334829.gif
+    notes: 
+
+  - title: A study on the sustainable development of robotics
+    authors: <strong>Ziyi Cheng</strong>
+    conference_short: Robotics
+    conference: Creation of a popular science animation focusing on the application of robotics to SDGs.(Press Code to see the video)
+    pdf: 
+    code: https://www.dropbox.com/scl/fi/vaswxlbmhvfu9mvcnigdm/EEEN62011_coursework1_11334829.mp4?rlkey=rpqcox2a0b1a9ghf1l45h7ctj&st=z456fn8n&dl=0
+    bibtex: 
+    image: ./assets/img/EEEN62011_coursework1_11334829.gif
+    notes: 90/100
+
+
+  - title: Machine learning-based study to distinguish sea otters from river otters
+    authors: <strong>Ziyi Cheng</strong>
+    conference_short: Machine Learning
+    conference: Used machine learning to distinguish between see and river otters.(Press PDF to know more)
+    pdf: ./assets/files/otter_overview.pdf
+    code: 
+    page: 
+    bibtex: 
+    notes: Highly Rated
+    image: ./assets/img/otter.gif
+  
+  - title: Research on face detection and reconstruction based on 3DMM and neural networks
+    authors: <strong>Ziyi Cheng</strong>, Ruihao Yin, Nabi
+    conference_short: Image Processing/ML
+    conference: Used MATLAB to recognize and reconstruct human faces.(Press PDF to know more)
+    pdf: ./assets/files/3dmm_overview.pdf
+    code: https://github.com/ziyicheng427/face_detection-face_recognization
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/3dmm.gif

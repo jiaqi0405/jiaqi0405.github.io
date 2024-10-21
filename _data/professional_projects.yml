@@ -1,0 +1,37 @@
+main:
+
+  - title: Robot Systems Design Project
+    authors: <strong>Ziyi Cheng</strong>, Alexander Morley, Geetik Mamillapalli, Michalis Iacovides
+    conference_short: Robotics
+    conference: Development of an object retrival robotic system that utilises a LeoRover and Trossen PincherX 150 Manipulator. My role within the group was to develop target detection algorithms and make them interact with the robotic arm and navigation system.(Press Page to know more/Press Code to see the 3D model)
+    pdf: https://www.dropbox.com/scl/fi/5v5rsisna5de2jio44t7a/Team5-Promotional-Video.mp4?rlkey=scg2aw7pa5sw6d2tcyxlvicln&st=9tfg681u&dl=0
+    page: https://github.com/ziyicheng427/RobotDesign_Group5
+    code: https://postgrad297.autodesk360.com/g/shares/SH512d4QTec90decfa6ebf9370ef393e15b3?mode=embed
+    image: .\assets\img\Team5-Requirements Evaluation.gif
+
+  - title: Virtual Winter Olympic Village
+    authors: <strong>Ziyi Cheng</strong>, Siming Zheng, Ruihao Yin, Nabi, Xinyi Wang, Xinyu Wang
+    conference_short: Virtual Reality
+    conference: This project aims to extend the reach and engagement of the Beijing Winter Olympics by creating an immersive digital representation of the Olympic Village.(Press PDF to know more)
+    pdf: ./assets/files/virtual_reality_overview.pdf
+    code:
+    image: ./assets/img/virtual_reality.gif
+
+  - title: OGI Immersive Space
+    authors: <strong>Ziyi Cheng</strong>, Zidong Yin, Xiaoyang Zhang
+    conference_short: Mix Reality
+    conference: This project integrates cutting-edge visualisation, interactive elements and LowPoly style modeling to bring the 2022 Beijing Winter Olympic Games to life.(Press PDF to know more)
+    pdf: ./assets/files/ogi_overview.pdf
+    code: https://www.dropbox.com/scl/fi/cuctgrw1l6dxvz8un1xqg/OGI-Immersive-Space.mp4?rlkey=4lw4dnkba9agr4wsk1iz4h1jd&dl=0
+    notes: National First Prize
+    image: ./assets/img/ogi.gif
+  
+  - title: POP ART FIGHT 2D Game
+    authors: <strong>Ziyi Cheng</strong>, Siming Zheng
+    conference_short: Programming/Unity
+    conference: 2D game developed using Unity and C#.(Press PDF to know more)
+    pdf: ./assets/files/popart_overview.pdf
+    code: https://www.dropbox.com/scl/fo/6iimgznugpi9jbl6ath9c/h?rlkey=0w120wywb8bc7lqbf23w4wzaw&dl=0
+    notes: Download and try
+    image: ./assets/img/popart.gif
+
