@@ -1,0 +1,31 @@
+main:
+
+  - title: Second Harmonic Exploitation for Wireless Power Transfer Using Duplexing Rectenna
+    authors:
+    conference_short: Wireless Power Transfer
+    conference: This project presents a design of a duplexing rectenna with harmonic feedback capability for WPT applications. The duplex dipole antenna is designed to receive RF power at 0.915 GHz and transmit the 2nd harmonic signals at 1.83 GHz back to the source for positioning. The rectifier converts the incoming waves at 0.915 GHz and the unavoidable 2nd harmonic waves are collected and used as a feedback. Simulation results show a relative high RF-DC conversion efficiency of 71% (with Pin=15 dBm). Thus, a closed-loop feedback system is formed and it offers the potential to fulfil an effective and efficient WPT system.
+    pdf:
+    code:
+    bibtex: 
+    image:  /assets/img/pubs/poster1.png
+    notes:
+
+  - title: Modified Dipole and Pitch Antennas with Metamaterial
+    authors:
+    conference_short: Dipole and Pitch Antennas
+    conference: This project explores the design of modified dipole and patch antennas with the integration of metamaterials. By utilizing the CST Microwave Studio software, simulations of two types of antennas were done, and they are modifed to operate at higher frequency with wider bandwidth. The metamaterial structure was also simulated, and will be attached to the antennas in the future.
+    pdf: 
+    code:
+    bibtex: 
+    image: /assets/img/pubs/poster2.png
+    notes: 
+
+  - title: Design of a 60 GHz Band Patch Antenna Array for Vital Signs Monitoring Based on Doppler Radar Principles
+    authors:
+    conference_short: Design of Antenna Array
+    conference: This project explores ultra-wide patch antenna arrays operating in the 60 GHz band (60-64GHz) to remotely detect human respiratory and heartbeat frequencies using Doppler radar principles, aiming at increased gain and beamwidth. The goal is to accurately measure the respiratory rate (BR) and heart rate (HR) at different distances from 30 to 150 mm in both single and dual antenna configurations. In the single-antenna setup, the same antenna is used to transmit and receive signals. In contrast, a dual-antenna setup uses two identical antennas, one for transmitting and the other for receiving. The aim of this study was to  compare the accuracy and detection range of remote vital signs monitoring (RVSM) under  single-antenna and dual-antenna operation, and to investigate the effect of increasing the  number of patch elements on these parameters.
+    pdf: /assets/file/Undergraduate_final_design.pdf
+    code:
+    bibtex: 
+    image: /assets/img/pubs/poster3.png
+    notes:

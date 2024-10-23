@@ -1,9 +1,9 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Research Experience</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Research projects in Telecommunications engineering</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.research_project1.main %}
+{% for link in site.data.research_projects1.main %}
 
 <li>
 <div class="pub-row">
