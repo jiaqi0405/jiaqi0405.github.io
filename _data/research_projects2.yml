@@ -16,10 +16,12 @@ main:
     conference_short: Robotics Sys
     conference: Designed and developed an object retrieval robotic system integrating the LeoRover platform with the Trossen PincherX 150 manipulator. My primary role in the team focused on system design and object detection, ensuring seamless integration of sensors and the robotic arm for efficient object identification and manipulation.
     pdf: /assets/files/G11-Final Design Review.pdf
-    3D model: https://a360.co/3FOjy8e
-    bibtex: 
+    bibtex:
     image:  /assets/img/pubs/robotcar.png
     notes:
     code: https://github.com/Junzhe-Yan/RobotDesignProject_Team11/tree/main
-    video: 
+    code_link_title: Project page
+    video:
+    extra_link:   https://a360.co/3FOjy8e
+    extra_link_title:   3D model
 
