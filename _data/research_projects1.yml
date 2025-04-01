@@ -15,7 +15,7 @@ main:
     conference_short: Dipole and Pitch Antennas
     conference: This project explores the design of modified dipole and patch antennas with the integration of metamaterials. By utilizing the CST Microwave Studio software, simulations of two types of antennas were done, and they are modifed to operate at higher frequency with wider bandwidth. The metamaterial structure was also simulated, and will be attached to the antennas in the future.
     pdf: /assets/files/POSTER2.pdf
-    code:
+    code: 
     bibtex: 
     image: /assets/img/pubs/poster2.png
     notes: 
@@ -25,7 +25,7 @@ main:
     conference_short: Design of Antenna Array
     conference: This project explores ultra-wide patch antenna arrays operating in the 60 GHz band (60-64GHz) to remotely detect human respiratory and heartbeat frequencies using Doppler radar principles, aiming at increased gain and beamwidth. The goal is to accurately measure the respiratory rate (BR) and heart rate (HR) at different distances from 30 to 150 mm in both single and dual antenna configurations. In the single-antenna setup, the same antenna is used to transmit and receive signals. In contrast, a dual-antenna setup uses two identical antennas, one for transmitting and the other for receiving. The aim of this study was to  compare the accuracy and detection range of remote vital signs monitoring (RVSM) under  single-antenna and dual-antenna operation, and to investigate the effect of increasing the  number of patch elements on these parameters.
     pdf: /assets/files/Undergraduate_final_design.pdf
-    poster: /assets/files/Undergraduate final design poster.pdf
+    poster: /assets/files/Undergraduate_final_design_poster.pdf
     code:
     bibtex: 
     image: /assets/img/pubs/poster3.png
